@@ -4,7 +4,9 @@ This proposal requests the addition of GARLIC to the Unicode Emoji
 character library.  Garlic is a species in the Allium genus, a
 bulbous herb used culinarily worldwide.
 
-![Garlic](Garlic.png "Garlic by Aphelandra Messer")
+![Head of garlic](Garlic.png)
+
+(Image by Aphelandra Messer)
 
 # Introduction
 
