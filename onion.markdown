@@ -45,6 +45,12 @@ and people using metaphors about crying.  It could be used in
 combination with other emoji to express a variety of prepared
 dishes.
 
+Onions are believed to have health benefits, such as reducing
+or healing inflammation, and preventing cancer.
+
+They are the subject of figures of speech such as "peeling back
+the onion", "know your onions", « mêle-toi de tes oignons »,
+
 In computer networking, onion routing is a technique for anonymous
 communication over a computer network. In an onion network, messages
 are encapsulated in layers of encryption, analogous to layers of an
