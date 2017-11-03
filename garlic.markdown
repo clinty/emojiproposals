@@ -133,6 +133,12 @@ at the lack of garlic emoji.
 
 There is also no shortage of tweets with the hashtag #garlicemoji.
 
+[Instagram #garlicemoji](https://www.instagram.com/explore/tags/garlicemoji/)  
+[Instagram #garlicemojiplease](https://www.instagram.com/explore/tags/garlicemojiplease/)  
+[Instagram #garlicemojirequired](https://www.instagram.com/explore/tags/garlicemojirequired/)  
+[Instagram #garlicemojineedstobeaddedtomylife](https://www.instagram.com/explore/tags/garlicemojineedstobeaddedtomylife/)  
+[Instagram #garlicemojimuchneeded](https://www.instagram.com/explore/tags/garlicemojimuchneeded/)
+
 # Selection Factors Exclusion
 
 ## Overly Specific

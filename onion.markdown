@@ -129,6 +129,11 @@ at the lack of onion emoji.
 
 There is also no shortage of tweets with the hashtag #onionemoji.
 
+[Instagram #onionemoji](https://www.instagram.com/explore/tags/onionemoji/)  
+[Instagram #onionemojimsn](https://www.instagram.com/explore/tags/onionemojimsn/)  
+[Instagram #onionemojineeded](https://www.instagram.com/explore/tags/onionemojineeded/)  
+[Instagram #onionemoji with spurious tomato](https://www.instagram.com/explore/tags/onionemoji%F0%9F%8D%85/)
+
 # Selection Factors Exclusion
 
 ## Overly Specific
